@@ -5,3 +5,4 @@
 # Thanks compile author: blue
 
 # patchrom author: LXSN
+# FlymeOS5_device_hermes
