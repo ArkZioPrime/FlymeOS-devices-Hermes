@@ -6,3 +6,4 @@
 
 # patchrom author: LXSN
 # FlymeOS5_device_hermes
+# FlymeOS5_device_hermes
